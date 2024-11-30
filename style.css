@@ -135,6 +135,7 @@ body {
 .about-me h2 {
   font-size: 2em;
   margin-bottom: 20px;
+  text-align: center;
 }
 .about-me .about-content {
   display: flex;
@@ -153,7 +154,7 @@ body {
 
 .about-me .about-text p{
   flex: 1;
-  text-align: right;
+  text-align: justify;
 }
 
 .about-me h3 {
